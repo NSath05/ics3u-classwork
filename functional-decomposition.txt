@@ -1,0 +1,34 @@
+Functional decomposition from a human perspective
+-------------------------------------------------
+
+You are getting a pack of gum from a vending machine
+  - Approach the vending machine
+    - Walk until until you are withing arms reach from the machine 
+  - Determine desired pack
+    - Locate the item ID
+  - Instert approppriate amount of money
+    - Locate cost of item next to the item ID
+    - Insert equal or greater amount of money
+    - Insert money into the intake
+  - Key-in number for the flavour
+  - Grab the pack of gum from the bottom of the machine
+    - Reach through the vending machine slot
+    - Grab your purchassed item 
+    - Pull item out of the slot
+    - Leave the machine
+    
+   
+The cookie is too big for the glass 
+------------------------
+    
+How do you fix this problem?
+  - Split the cookie into halfs or quarters
+
+How can you prevent this problem?
+  - Get smaller cookies
+  - Get larger cups
+  
+How can this problem be solved with an app?
+  - Create an app that uses AR technology 
+  - The app scans the circumfurance of the cookie and the glass
+  - The app then calculates if the cookie would fit in the cup
