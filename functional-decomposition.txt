@@ -32,3 +32,47 @@ How can this problem be solved with an app?
   - Create an app that uses AR technology 
   - The app scans the circumfurance of the cookie and the glass
   - The app then calculates if the cookie would fit in the cup
+
+The spoon dropped into the gravy
+--------------------------------
+
+How do you fix this problem?
+  - Reach into the gravy and remove the spoon from the bowl
+ 
+How can you prevent this problem?
+  - Take precautions when eating
+    - Eat slowly 
+    - Avoid distractions 
+    
+  How can this problem be solved with a robotic system?
+  - Create a robotic assistant 
+  - Asistant warns you when you eat to fast
+  - Asistant also warns you when you get distracted while eating 
+  
+  
+Wake up and go to school
+------------------------
+
+  - Wake up
+  - Get out of bed
+  - Turn on lights 
+  - Get clothes 
+  - Put clothes on 
+  - Leave room
+  - Walk to bathroon
+  - Grab toothbrush 
+    - Put toothpaste on toothbrush
+    - Brush teeth
+    - Wash mouth and toothbrush when finished 
+  - Leave bathroom
+  - Go downstairs 
+  - Walk to kitchen 
+    - Eat breakfast
+      - If breakfast is unavailable, else grab a fruit
+    - Finish breakfast
+  - Leave kitchen 
+  - Walk to front door 
+  - Grab backpack
+  - Head to school
+    - If the weather conditions are bad ask parents for ride, else walk with sutibale clothing  
+   
