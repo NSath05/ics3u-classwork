@@ -21,5 +21,5 @@ height = int(input("please enter the height of the prism:"))
 
 volume = width * length * height
 
-print("The voulume of the prism is {}m.".format(volume))
+print("The voulume of the prism is {}m3.".format(volume))
 ----------------------------------------------------------
