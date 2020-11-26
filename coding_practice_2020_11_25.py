@@ -254,3 +254,29 @@ if individualName == "":
 	print("That is not an American bank note in circulation.")
 else:
 	print("The individual on this bank note is {}.".format(individualName))
+      -----------------------------------------------------------------------
+      
+    # Get a name from the user, e.g. “Bob”, then output a greeting of the form “Hello Bob!”.
+      
+      public String helloName(String name)
+{	return ("Hello " + name + '!');	}
+      -------------------------------------
+      
+    # Given two strings, a and b, return the result of putting them together in the order abba,
+     e.g. "Hi" and "Bye" returns "HiByeByeHi".
+
+      public String makeAbba(String a, String b)
+{	return (a+b+b+a);	}
+      -----------------------------
+      
+      # The web is built with HTML strings like “<i>Yay</i>” which draws Yay as italic text. 
+      # In this example, the “i” tag makes <i> and </i> which surround the word “Yay”. 
+      # Ask the user for a tag string, then ask the user for a word string. 
+      # Print out the HTML string with tags around the word, e.g. “<i>Yay</i>”.
+      
+      public String makeTags(String tag, String word)
+  {return ('<' + tag + '>' + word + '<' + '/' + tag + '>');}
+   -------------------------------------------------------
+      
+      
+ 
